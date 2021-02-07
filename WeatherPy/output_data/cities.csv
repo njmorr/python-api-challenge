@@ -1,0 +1,559 @@
+City,Temperature,Humidity,Clouds,Windspeed
+ilesha,97.02,16,99,2.42
+kaya,96.84,10,31,11.14
+bethanien,94.14,10,0,15.12
+santiago del estero,93.99,38,0,5.01
+tari,93.9,15,100,6.96
+mariental,93.78,10,0,12.66
+timbiras,91.9,45,45,2.53
+tahoua,91.4,6,39,6.91
+jardim,91,33,0,1.92
+concepcion del uruguay,90.82,38,0,1.99
+rondonopolis,90.64,41,30,2.42
+yacuiba,90.07,30,0,8.28
+porto novo,89.6,70,20,14.97
+anloga,89.6,66,20,17.27
+tsevie,89.6,66,20,17.27
+nicoya,89.6,45,0,14.97
+trairi,89.02,54,32,13.71
+moron,88.93,33,0,4
+acarau,88.72,56,8,16.71
+neiva,88.52,47,84,1.36
+urucui,87.89,55,56,1.59
+puerto colombia,87.8,62,0,5.75
+aquiraz,87.8,62,40,11.5
+touros,87.8,58,40,16.11
+talara,87.8,51,0,13.8
+boa vista,87.8,51,75,14.97
+carutapera,87.39,61,12,10.29
+jurado,87.37,65,82,5.68
+kuruman,87.01,37,61,3.62
+oussouye,86.86,32,0,11.5
+anori,86.85,68,99,2.51
+puerto el triunfo,86.49,58,0,3.44
+jaciara,86.05,51,63,5.35
+bata,86,74,20,4.61
+oranjestad,86,58,20,21.85
+lagos,85.96,67,98,10.13
+villarrica,85.96,49,0,0.63
+piacabucu,85.77,62,86,15.1
+satipo,85.53,58,68,1.48
+damaturu,85.51,15,59,7.09
+port antonio,84.76,61,20,27.63
+florianopolis,84.49,39,0,13.8
+lazaro cardenas,84.24,50,10,1.39
+tefe,84.2,79,40,4.61
+jipijapa,84.2,74,40,3.44
+saint-georges,84.2,65,20,24.16
+champerico,84.2,61,0,4.61
+bathsheba,84.2,58,40,23.02
+saint-louis,84.2,24,0,6.91
+inhambane,84.09,70,20,6.91
+pimenta bueno,84.06,77,70,3.49
+inirida,84.02,81,80,2.55
+sechura,83.43,51,7,7.63
+jacareacanga,83.23,86,71,3.51
+catia la mar,83.21,74,20,10.98
+mitu,83.14,83,61,1.21
+guerrero,82.98,30,0,2.21
+belmonte,82.96,79,75,14.97
+axim,82.78,77,100,8.25
+rocha,82.71,49,7,4.99
+kavieng,82.53,78,39,9.46
+cayenne,82.4,83,90,16.11
+kilifi,82.4,74,75,11.5
+padang,82.4,74,20,4.61
+the valley,82.4,61,20,17.27
+penha,82.4,54,0,9.22
+santa cruz del norte,82.26,69,40,13.8
+planadas,82.26,48,97,5.37
+ovalle,82.24,32,0,8.03
+georgetown,82.2,83,20,3.44
+puerto ayora,82.18,70,0,18.41
+thinadhoo,82.13,74,27,12.71
+tucupita,82.08,71,95,5.68
+barra,82.08,67,85,4.81
+hithadhoo,81.88,73,44,10.07
+kudahuvadhoo,81.84,73,45,15.75
+dourbali,81.82,14,24,6.58
+lorengau,81.68,80,97,8.23
+dhidhdhoo,81.68,74,77,13.09
+meiganga,81.66,20,83,5.32
+mahibadhoo,81.64,71,42,16.53
+salinopolis,81.63,82,58,11.27
+gobabis,81.52,39,53,16.17
+micheweni,81.37,80,70,13.98
+totness,81.28,78,100,15.3
+grand gaube,81,77,79,5.99
+faanui,80.91,76,2,12.75
+quatre cocos,80.82,78,20,10.36
+le vauclin,80.8,65,75,19.57
+bambous virieux,80.78,78,20,10.36
+rovira,80.65,62,100,4.7
+alyangula,80.6,89,75,10.36
+sulangan,80.6,82,100,16.84
+souillac,80.6,78,20,10.36
+mahebourg,80.6,78,20,10.36
+andros town,80.6,78,75,11.5
+lamu,80.6,74,1,9.22
+pueblo rico,80.6,61,40,8.05
+butaritari,80.53,81,42,17.45
+pimentel,80.53,48,0,8.05
+moussoro,80.51,14,3,10.16
+namatanai,80.4,80,81,5.3
+labuan,80.29,89,40,8.05
+arlit,80.2,12,94,5.44
+satun,80.04,89,40,3.44
+rio grande,79.77,57,40,6.91
+bubaque,79.72,56,0,13.18
+paciran,79.66,83,99,12.46
+kupang,79.45,82,100,6.4
+buala,79.45,82,89,5.57
+atuona,79.32,75,44,21.56
+sorong,79.3,86,100,5.57
+pochutla,79.07,78,90,7.16
+port blair,78.98,78,0,8.81
+gigmoto,78.87,84,99,15.39
+carnarvon,78.8,100,12,12.66
+bowen,78.8,94,75,5.75
+mount isa,78.8,94,100,6.91
+avarua,78.8,89,1,3.44
+mersing,78.8,89,91,10.36
+hidalgotitlan,78.8,78,40,23.02
+las choapas,78.8,78,40,23.02
+aloleng,78.78,73,29,7.92
+udankudi,78.73,75,0,19.55
+tambun,78.67,100,40,3.44
+manokwari,78.57,82,96,2.71
+meulaboh,78.55,82,28,3.91
+hambantota,78.55,79,14,18.66
+hobyo,78.49,75,5,18.57
+rundu,78.46,68,96,1.81
+sinnamary,78.44,87,80,14.88
+miri,78.4,94,40,3.44
+santa rosa,78.4,83,20,3.44
+maridi,78.28,20,100,4.32
+mogadishu,78.22,77,6,24.23
+marsh harbour,78.12,77,0,20.51
+honiara,77.94,81,93,4.59
+cockburn town,77.92,81,3,18.45
+sibolga,77.7,80,91,3.09
+biak,77.68,80,100,2.35
+biltine,77.59,15,7,10.2
+vanimo,77.49,86,100,2.33
+isangel,77.36,80,23,3.78
+rikitea,77.27,72,95,11.77
+tanout,77.18,14,38,7.56
+cidreira,77.05,64,40,11.81
+vaini,77,94,75,10.36
+bintulu,77,94,40,1.14
+port moresby,77,94,20,9.22
+amalapuram,77,65,4,4.61
+yasothon,77,58,62,10.63
+iquique,77,47,0,13.8
+chuy,76.84,59,1,7.76
+kimbe,76.8,86,39,3
+tessalit,76.8,18,98,11.32
+bengkulu,76.78,85,100,5.55
+hualmay,76.73,62,100,8.01
+matara,76.68,85,25,2.77
+nabire,76.44,84,100,3.31
+bima,76.42,84,77,1.12
+bambanglipuro,76.33,91,100,5.08
+saint-leu,76.3,78,20,1.14
+luderitz,76.23,51,0,31.94
+calvinia,76.05,31,26,14.5
+marawi,75.99,95,100,1.01
+saint-pierre,75.99,78,20,1.14
+champasak,75.99,61,98,3.15
+arraial do cabo,75.97,83,75,9.22
+pouebo,75.78,75,85,0.4
+marsabit,75.78,50,37,7.29
+boyolangu,75.54,91,100,5.82
+dingle,75.52,91,100,9.01
+sao lourenco,75.51,71,70,3.09
+pisco,75.45,83,75,5.75
+saint-philippe,75.45,78,20,1.14
+taoudenni,75.38,18,0,11.43
+castro,75.22,42,0,3.31
+kloulklubed,75.2,100,90,6.91
+kattivakkam,75.2,73,32,4.61
+salalah,75.2,69,75,3.44
+esna,75.2,41,0,3.44
+alice springs,75.18,35,33,1.14
+japura,75.02,85,100,0.54
+port shepstone,74.84,87,43,10.96
+lusambo,74.62,80,98,1.52
+mwandiga,74.59,75,83,2.17
+hwange,74.57,80,88,3.58
+kabalo,74.35,91,85,2.86
+namibe,73.87,74,97,9.8
+mulanje,73.74,87,80,4.74
+cuamba,73.6,90,80,2.55
+sao joao da barra,73.4,88,90,5.93
+east london,73.4,83,20,6.91
+yarada,73.4,83,20,2.3
+coahuayana,73.4,73,1,3.51
+praya,73.4,53,75,25.32
+saldanha,73.4,46,0,23.02
+quito,73.4,38,40,4.61
+ballina,73.17,78,90,8.05
+bilma,73.09,18,70,6.22
+teacapan,73.02,53,49,2.26
+byron bay,72.81,78,90,8.05
+oum hadjer,72.55,18,40,4.92
+phan thiet,72.01,86,19,6.78
+bouloupari,71.6,94,0,2.3
+kendrapara,71.6,64,20,2.51
+calama,71.6,35,0,23.02
+chimoio,71.33,98,91,5.48
+stilfontein,71.19,68,70,7.87
+alem paraiba,71.04,85,100,1.45
+sao filipe,71.04,69,74,8.81
+cape town,71.04,53,0,25.32
+halapitan,70.95,93,100,1.66
+caconda,70.9,60,100,3.6
+ambatondrazaka,70.75,88,74,5.44
+esmeraldas,70.75,88,90,12.66
+mangrol,70.54,57,0,4.25
+willowmore,70.48,60,29,13.33
+vila velha,69.91,100,90,2.3
+grootfontein,69.8,88,97,3.44
+bredasdorp,69.8,52,71,10.36
+jalu,69.8,24,81,10.87
+doha,69.55,78,40,13.8
+nalut,69.53,24,61,18.34
+nelson bay,69.12,83,90,10.36
+hermanus,69.01,69,46,4
+hirara,68.77,72,100,10.98
+rantepao,68.4,89,100,2.15
+aurangabad,68.23,25,0,9.08
+guerrero negro,68.04,29,0,3.69
+port elizabeth,68,94,75,8.05
+bajitpur,68,68,40,9.22
+coquimbo,68,60,40,11.5
+cabo san lucas,67.89,72,40,3.44
+constitucion,67.8,64,80,6.55
+mwinilunga,67.62,93,50,5.32
+kadhan,67.21,26,0,6.67
+port alfred,66.99,94,65,15.99
+kruisfontein,66.99,91,100,7
+port macquarie,66.97,97,66,1.01
+plettenberg bay,66.31,75,98,6.38
+oranjemund,66.27,76,7,25.19
+coihaique,66.2,48,20,8.05
+broken hill,66.2,42,0,11.5
+sur,66.02,72,0,5.19
+flinders,66,80,79,1.99
+sain alto,65.95,23,69,6.04
+wembley,65.62,94,75,11.5
+san patricio,65.3,59,1,13.8
+victoria,65.16,83,0,10.6
+lianzhou,65.01,62,20,4.32
+lebu,64.9,72,58,6.51
+esperance,64.4,82,40,16.11
+damietta,64.4,72,0,5.75
+khorramshahr,64.4,72,75,6.91
+kutum,63.81,25,11,10.18
+benjamin hill,63.5,38,0,1.99
+san quintin,63.36,55,0,7.9
+valparaiso,63.03,72,90,6.91
+busselton,63,98,99,11.95
+ulladulla,62.98,72,75,11.5
+ahuimanu,62.82,82,1,2.15
+ribeira grande,62.6,72,20,20.71
+alexandria,62.6,72,20,3.44
+fuzhou,62.6,67,75,8.95
+comodoro rivadavia,62.6,59,20,11.5
+punta arenas,62.6,34,0,12.66
+jamshedpur,62.58,38,0,3.51
+orikum,62.1,59,87,31.5
+eucaliptus,62.08,40,100,5.97
+vila franca do campo,61.95,72,75,14.97
+goroka,61.81,88,100,1.23
+hilo,61.74,59,20,8.05
+praia da vitoria,61.3,77,75,17.54
+rawson,61.25,50,29,14.45
+port augusta,61.18,72,0,11.5
+tezu,61.09,36,0,3.83
+airai,60.93,100,100,2.57
+mar del plata,60.89,94,90,13.8
+camacha,60.8,88,40,14.97
+kapaa,60.8,72,1,11.5
+belen,60.8,72,40,11.5
+ayna,60.8,67,75,3.44
+marrakesh,60.8,48,75,6.91
+waipawa,60.75,88,75,13.8
+ewa beach,60.53,77,75,4.61
+makakilo city,60.28,77,75,4.61
+necochea,60.01,92,85,18.84
+naro moru,59.54,91,96,0.74
+jiaocheng,59.54,65,0,1.14
+ahipara,59.43,89,65,6.85
+ojinaga,59.32,16,1,2.66
+tura,59.2,42,16,2.28
+christchurch,59.14,100,90,9.22
+port lincoln,59.14,81,11,15.95
+kaeo,59,90,66,1.01
+ngunguru,59,90,80,1.01
+ushuaia,59,55,0,13.8
+adwa,58.95,30,8,8.95
+ayios nikolaos,58.78,59,90,1.01
+lagoa,57.99,75,100,20.6
+naze,57.83,64,0,8.81
+herat,57.79,30,93,6.76
+canico,57.78,72,40,3.44
+xunchang,57.7,56,99,1.79
+ponta do sol,57.65,69,79,5.01
+basqal,57.2,41,90,24.16
+porto-vecchio,57.11,71,40,14.97
+kaitangata,57,94,53,2.48
+ghansor,56.71,35,0,4.16
+codrington,56.3,68,88,11.18
+colares,56.17,88,75,12.66
+anzio,56.05,89,93,4
+taupo,55.99,87,89,3.22
+burnie,55.99,68,79,5.66
+abu samrah,55.71,73,0,8.93
+mount gambier,55.4,71,90,6.91
+gazanjyk,55.27,51,100,10.65
+tuatapere,54.61,75,94,4.54
+kutahya,54.39,54,0,3.44
+chardara,54.37,60,100,14.47
+fukue,54.34,62,24,20.62
+te anau,54.21,81,99,3.13
+new norfolk,54.18,62,90,9.22
+hobart,54.09,62,90,9.22
+bluff,54.07,87,100,5.55
+tiznit,54,67,28,12.77
+muroto,53.38,57,0,9.28
+lata,52.93,92,100,1.99
+shaoyang,52.54,90,100,6.6
+iberia,52.18,66,20,8.05
+sayyan,52.07,55,36,8.12
+ferrol,52.02,77,100,1.99
+ascension,51.96,66,40,5.75
+beocin,51.94,71,0,16.11
+shenjiamen,51.85,73,100,12.66
+nagato,51.8,71,20,13.8
+nevsehir,51.8,50,0,3.44
+mataura,51.69,87,99,1.79
+san francisco,50.9,81,20,3.44
+wanxian,50.79,77,100,4.52
+macusani,50.72,59,67,6.62
+muros,50.47,92,100,18.01
+santa ana,50.4,93,90,1.72
+lauria,50.34,93,86,5.59
+half moon bay,50.27,100,40,3.96
+kakching,49.69,82,30,1.61
+pittsburg,48.31,88,19,1.01
+lompoc,48.27,93,1,3.44
+coria,48,85,100,5.01
+zhongshu,47.98,91,100,2.37
+barcelos,47.95,100,90,18.41
+ciudad real,47.79,75,96,5.01
+saint-paul-les-dax,47.73,87,100,9.22
+greenwood,47.14,76,75,10.36
+karaman,47.05,79,27,11.95
+laguna,46.31,87,1,4.52
+healdsburg,45.91,100,1,0.98
+katsuura,45.64,49,0,18.41
+komsomolskiy,45.5,83,100,3.53
+salinas,45.48,76,1,8.05
+pacific grove,45.3,87,1,3.44
+lumberton,44.98,87,90,11.5
+granada,44.98,74,63,11.01
+fortuna,44.8,93,90,3.96
+suluktu,44.6,81,90,17.9
+avera,43.92,100,90,4.61
+bose,43.7,96,100,1.3
+north bend,43.7,93,90,3.44
+coos bay,43.05,93,90,3.44
+borcea,42.89,100,90,16.11
+quimper,42.8,81,75,9.22
+plouzane,41.61,81,75,14.97
+luoyang,41,99,84,7.7
+fallon,40.95,48,1,9.22
+portland,40.23,87,90,4.61
+gallup,39.76,35,1,8.05
+qaqortoq,39.2,33,20,49.48
+narsaq,39.2,28,75,43.73
+hede,38.16,74,100,14.34
+vendome,37.74,75,91,10.36
+skibbereen,37.4,87,75,21.85
+hasaki,37.4,70,75,1.14
+vagur,37.02,77,95,17.31
+port hardy,36.97,93,75,5.75
+athy,36.66,72,93,15.01
+hofn,36.59,83,100,17.83
+la grande,36.03,64,95,11.99
+nantucket,35.78,93,90,14.97
+sivas,35.6,75,0,8.05
+vestmanna,35.6,75,75,13.8
+warrington,35.44,69,90,16.11
+weymouth,34.02,86,90,8.05
+olafsvik,34,84,0,14.56
+sterling,33.84,93,90,6.91
+husavik,33.8,69,75,4.61
+saint george,33.8,51,1,1.03
+fort-shevchenko,33.75,83,59,15.84
+mayo,33.57,100,90,9.22
+ushtobe,33.3,94,99,7.81
+harrisburg,33.28,86,90,3.44
+inverness,33.26,75,40,8.05
+filadelfia,32.92,93,90,9.22
+aksu,32.81,78,100,1.86
+mastic beach,32.58,86,90,8.05
+eyemouth,32.52,80,100,1.01
+great yarmouth,32.45,80,75,27.63
+andenes,32,69,75,24.16
+torbay,31.95,59,40,33.38
+karakol,31.91,86,100,3.29
+prince rupert,31.73,86,1,6.91
+jiuquan,31.6,67,53,5.28
+paamiut,31.08,85,59,6.87
+yuancheng,30.72,82,92,3.62
+jinchang,30.49,74,100,2.37
+margate,30.43,84,100,8.01
+hami,30.43,81,43,2.95
+ucluelet,30.2,100,20,15.43
+yuci,30.2,55,0,6.71
+yumen,30.07,71,66,6.93
+south lake tahoe,30.04,79,1,3.44
+eckernforde,29.37,76,100,18.99
+asau,28.99,74,100,2.73
+krusa,28.8,59,100,23.02
+palmer,28.49,86,90,4.61
+sitka,28.4,64,75,3.44
+honningsvag,28.4,59,75,26.46
+tigil,28.36,93,15,18.07
+pangnirtung,28.27,80,0,15.14
+petrivka,28.22,86,90,15.66
+seoul,27.77,58,0,6.91
+bethel,27.25,93,90,4.61
+tyazhinskiy,26.85,92,81,16.67
+cap-aux-meules,26.6,63,1,25.32
+kodiak,26.6,63,1,4.61
+ilulissat,26.6,33,0,11.5
+yamada,26.42,86,0,11.79
+syedove,26.42,82,100,5.77
+albany,26.31,75,100,5.32
+quickborn,25.92,43,0,25.32
+baykit,25.61,96,100,5.3
+nova odesa,25.57,84,97,12.35
+vardo,24.8,74,75,28.77
+tromso,24.39,80,75,11.5
+iqaluit,24.39,68,75,21.85
+selje,24.01,64,0,4.59
+aleysk,23.67,94,86,11.41
+deep river,23.11,79,20,4.61
+petropavlovsk-kamchatskiy,23,93,40,4.47
+moi,22.77,70,16,14.56
+zavetnoye,22.3,78,46,11.65
+shizunai,22.23,91,82,14.09
+dalen,21.99,92,100,14
+ustka,21.69,93,99,19.01
+aseri,21.45,95,100,11.65
+new waterford,21.42,54,93,5.01
+iwanai,21.33,94,99,16.58
+notre-dame-du-lac,21.27,53,49,4.61
+sept-iles,21.25,58,0,9.22
+tasiilaq,21.2,58,1,3.44
+roald,20.68,39,0,9.22
+dongsheng,20.52,75,0,1.14
+jamestown,20.16,73,90,12.66
+querfurt,19.33,74,100,18.45
+zhangjiakou,19.27,79,0,4.59
+uspenka,19.18,73,94,7.34
+loviisa,19,93,73,6.93
+upernavik,18.46,80,18,3.47
+hamilton,18.21,62,20,9.22
+severo-kurilsk,18.16,88,88,14.79
+longyearbyen,17.6,67,75,19.57
+palana,16.74,91,100,31.36
+irkutsk,15.8,62,0,6.71
+holovyne,15.6,87,100,10.83
+shelburne,15.24,79,80,12.82
+parry sound,15.15,79,70,9.01
+sosnovo,15.01,96,100,7.83
+nikolskoye,14.34,92,75,11.18
+urumqi,14,85,100,1.03
+hovd,13.8,87,88,0.16
+kartuzy,13.39,79,40,5.75
+mandalgovi,12.63,81,0,10.31
+emba,12.58,95,34,10.98
+pinsk,11.43,91,100,11.32
+dombarovskiy,11.23,95,71,14.56
+qaanaaq,11.08,87,99,4.68
+zheleznodorozhnyy,10.62,79,75,8.95
+little current,10.42,52,0,12.66
+goderich,10.4,67,99,16.11
+juneau,9.93,78,20,5.99
+ostrovnoy,9.54,88,100,7.72
+tilichiki,9.09,96,100,14.76
+kyshtovka,8.91,93,100,18.72
+anchorage,7.09,85,90,3.44
+tevriz,7,91,100,15.43
+krasnoselkup,6.22,94,100,17.81
+aktash,6.17,89,33,8.01
+mugur-aksy,6.08,84,77,6.11
+erdenet,5.77,87,0,3.94
+kenai,4.46,85,1,4.61
+turukhansk,4.32,94,100,15.64
+kosh-agach,4.15,85,79,1.34
+tymovskoye,3.49,92,100,10.09
+quesnel,3.2,72,90,5.75
+dukat,1.44,87,100,13.44
+gornopravdinsk,0.93,90,100,13.85
+gavrilov-yam,-0.4,60,0,8.95
+solnechnyy,-0.44,89,94,4.56
+bilibino,-1.7,72,0,5.35
+clyde river,-2.2,92,1,4.61
+shatrovo,-2.33,87,61,15.1
+terney,-2.97,86,0,14.72
+provideniya,-3.48,77,32,16.15
+baruun-urt,-3.73,86,2,8.37
+beringovskiy,-4.09,89,99,13.8
+cherskiy,-4.41,72,49,1.25
+ocher,-5.44,89,100,10.36
+komsomolskoye,-5.58,88,100,13.09
+yazykovo,-6.41,91,100,13.78
+pevek,-6.72,87,0,1.86
+srednekolymsk,-7.87,87,100,6.49
+smidovich,-7.96,88,79,8.3
+egvekinot,-9.11,79,0,14.05
+ulaanbaatar,-9.4,77,0,2.24
+saint anthony,-10.73,58,1,8.05
+manzhouli,-10.98,84,0,4.81
+aklavik,-11.2,70,90,13.8
+mishan,-11.31,86,20,8.57
+danilov,-11.45,88,3,7.7
+ust-nera,-12.59,76,96,5.59
+tonshayevo,-13.09,87,100,9.48
+leningradskiy,-13.74,78,6,5.37
+qinggang,-14.01,87,2,6.08
+college,-16.91,69,75,2.26
+fairbanks,-17.57,76,1,3.44
+barrow,-20.2,69,75,10.36
+tokur,-21.75,88,43,0.47
+tuktoyaktuk,-22,76,90,14.97
+talnakh,-23.26,72,0,3.44
+vilyuysk,-23.58,85,78,10.42
+tommot,-23.87,81,0,1.97
+chokurdakh,-24.79,85,64,6.29
+neryungri,-25.67,84,19,0.56
+voyvozh,-26.27,86,100,9.71
+norman wells,-27.4,75,90,2.3
+tiksi,-28.7,83,75,3.69
+dikson,-29.06,86,88,10.94
+haines junction,-29.2,68,71,2.01
+deputatskiy,-30.08,86,0,1.57
+roblin,-31.23,83,15,11.9
+khatanga,-31.85,79,0,9.06
+nipawin,-33.7,61,1,12.66
+fort nelson,-34.6,67,40,4.61
+ust-maya,-34.62,82,38,2.64
+thompson,-36.4,67,75,13.8
+saskylakh,-38.13,78,27,11.86
+athabasca,-46.46,59,0,2.55
+yellowknife,-47.36,65,1,4.61
