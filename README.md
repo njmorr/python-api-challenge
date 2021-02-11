@@ -11,9 +11,11 @@
 * Unlike windspeed, temperatures are significantly correlated to latitude
     * With a correleation slope of -1.4 and an r-value of -0.865
 
-![alt text](WeatherPy/output_data/NlatVStemp.png "Little Correleation of Latitude on Windspped")
+![alt text](WeatherPy/output_data/NlatVStemp.png "Correleation of Latitude on Temperature")
 
 * Eight out of ten ideal vacation locations are +/- 10 degrees off of the Tropic of Cancer/Tropic of Capricorn which are 23.4 degrees and -23.4 degrees, respectively.  The areas semi-close to the equator are the most temperate.
+
+![alt text](VacationPy/output_data/heatmapWITHmarker.png "Correleation of Latitude on Temperature")
 
 |City          |Latitude  | Delta of Tropic | Longitude | Country | Hotel Name                                   |
 | ------------ | -------: | :-------------: | --------: | :-----: | -------------------------------------------- |
