@@ -3,13 +3,15 @@
 
 ## Ovbservations related to Weather and Ideal Weather Condtions
 
-* dsf
-    * jdfjf
+* Day-to-Day weather patterns (windspeed) are poorly correlated to latitude
+    * With a correleation slope of 0.05 and an r-value of 0.144
+
+![alt text](WeatherPy/output_data/NlatVSwindspeed.png "Little Correleation of Latitude on Windspped")
 
 * fdd
     * jsldfjd
 
-* Eight out of ten ideal vacation locations are +/- 10 degrees off of the Tropic of Cancer/Tropic of Capricorn.
+* Eight out of ten ideal vacation locations are +/- 10 degrees off of the Tropic of Cancer/Tropic of Capricorn which are 23.4 degrees and -23.4 degrees, respectively.  The areas semi-close to the equator are the most temperate.
 
 |City          |Latitude  | Delta of Tropic | Longitude | Country | Hotel Name                                   |
 | ------------ | -------: | :-------------: | --------: | :-----: | -------------------------------------------- |
@@ -23,3 +25,6 @@
 |cananeia      | -25.0147 | 1.6147          |-47.9267   | BR      | Casa azul                                    |
 |kapaa         | 22.0752  | 1.3248          |-159.3190  | US      | Sheraton Kauai Resort at Coconut Beach       |
 |dourados      | -22.2211 | 1.1789          |-54.8056   | BR      | Bravo City Hotel                             |
+
+
+##### https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet (accessed 11 February 2021)
