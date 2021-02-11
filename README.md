@@ -1,17 +1,17 @@
 # python-api-challenge
 
 
-## Ovbservations related to Weather and Ideal Weather Condtions
+## Observations related to Weather and Ideal Weather Conditions
 
 * Day-to-Day weather patterns (windspeed) are poorly correlated to latitude
-    * With a correleation slope of 0.05 and an r-value of 0.144
-    * Weather patterns are dependant on wind currents/jet streams/seasonality which can be hard to capture with a single snapshot of a particular point in time
+    * With a correlation  slope of 0.05 and an r-value of 0.144
+    * Weather patterns are dependent on wind currents/jet streams/seasonality which can be hard to capture with a single snapshot of a particular point in time
 
 ![alt text](WeatherPy/output_data/NlatVSwindspeed.png "Little Correleation of Latitude on Windspped")
 
 * Unlike windspeed, temperatures are significantly correlated to latitude
-    * With a correleation slope of -1.4 and an r-value of -0.865
-    * This makes sense because the farther a person gets away from the equator, the greater the distance they are from teh sun
+    * With a correlation slope of -1.4 and an r-value of -0.865
+    * This makes sense because the farther a person gets away from the equator, the greater the distance they are from the sun
     * This also tracks personal experience with living in a northern climate. 
 
 ![alt text](WeatherPy/output_data/NlatVStemp.png "Correleation of Latitude on Temperature")
