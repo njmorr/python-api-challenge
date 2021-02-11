@@ -5,15 +5,19 @@
 
 * Day-to-Day weather patterns (windspeed) are poorly correlated to latitude
     * With a correleation slope of 0.05 and an r-value of 0.144
+    * Weather patterns are dependant on wind currents/jet streams/seasonality which can be hard to capture with a single snapshot of a particular point in time
 
 ![alt text](WeatherPy/output_data/NlatVSwindspeed.png "Little Correleation of Latitude on Windspped")
 
 * Unlike windspeed, temperatures are significantly correlated to latitude
     * With a correleation slope of -1.4 and an r-value of -0.865
+    * This makes sense because the farther a person gets away from the equator, the greater the distance they are from teh sun
+    * This also tracks personal experience with living in a northern climate. 
 
 ![alt text](WeatherPy/output_data/NlatVStemp.png "Correleation of Latitude on Temperature")
 
-* Eight out of ten ideal vacation locations are +/- 10 degrees off of the Tropic of Cancer/Tropic of Capricorn which are 23.4 degrees and -23.4 degrees, respectively.  The areas semi-close to the equator are the most temperate.
+* Eight out of ten "ideal" vacation locations are +/- 10 degrees off of the Tropic of Cancer/Tropic of Capricorn which are 23.4 degrees and -23.4 degrees, respectively.  The areas semi-close to the equator are the most temperate.
+    * This makes sense; as stated above, more temperate weather is typically found around/closer to the equator.
 
 ![alt text](VacationPy/output_data/heatmapWITHmarker.png "Correleation of Latitude on Temperature")
 
